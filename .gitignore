@@ -1,0 +1,22 @@
+# Hugging Face model cache
+hf_cache/
+my_model/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+.env/
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
